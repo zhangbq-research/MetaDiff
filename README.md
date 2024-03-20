@@ -1,7 +1,7 @@
 # MetaDiff: Meta-Learning with Conditional Diffusion for Few-Shot Learning
 This repository contains the code for the paper:
 <br>
-[**c**](https://arxiv.org/pdf/2307.16424.pdf)
+[**MetaDiff: Meta-Learning with Conditional Diffusion for Few-Shot Learning**](https://arxiv.org/pdf/2307.16424.pdf)
 <br>
 Baoquan Zhang, Chuyao Luo, Demin Yu, Huiwei Lin, Xutao Li, Yunming Ye, Bowen Zhang
 <br>
